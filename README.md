@@ -8,4 +8,6 @@ Ukazane tutaj użądzenie przeznaczone jest do sprawdzenia tak powszechnego prze
 * [Kompaktowość urządzenia]
 * [Niska cena]
 
+## Instrukcja obsługi:
+
 ## Prezentacja układu:
