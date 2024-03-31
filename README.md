@@ -1,4 +1,4 @@
-# Tester-przewodow-USB
+# Tester przewodow USB
 ## Wstęp:
 Ukazane tutaj użądzenie przeznaczone jest do sprawdzenia tak powszechnego przedmiotu, jakim jest przewód USB. Głównym zamysłem urządzenia jest sprawdzenie uszkodzeń danego przewodu, jak również jak dobrze został wykonany czy też możliwe cięcia pudżetowe producenta w strukturze przewodu.
 
