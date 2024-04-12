@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=74HC154PW,118
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=24
+Version=9.1
+Released=2018-07-25 14:30:13
+Downloaded=2023-05-17 15:55:46
+3D=Y

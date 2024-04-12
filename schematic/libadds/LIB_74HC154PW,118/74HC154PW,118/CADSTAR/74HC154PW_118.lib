@@ -1,0 +1,18 @@
+.74HC154PW_118 :1 ;Encoders, Decoders, Multiplexers & Demultiplexers 4-16 DECODER/DEMUX
+SOP65P640X110-24N
+*STM IC
+*NGS
+*PLB 1="'Y0'" 2="'Y1'" 3="'Y2'" 4="'Y3'" 5="'Y4'" 6="'Y5'" 7="'Y6'" 8="'Y7'" 9="'Y8'" 10="'Y9'" 11="'Y10'" 12="GND" 13="'Y11'" 14="'Y12'" 15="'Y13'" 16="'Y14'" 17="'Y15'" 18="'E0'" 19="'E1'" 20="A3" 21="A2" 22="A1" 23="A0" 24="VCC"
+*MXP 24
+*DFN 74HC154PW_118
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (74HC154PW,118)
+~!Mouser Part Number (771-HC154PW118)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nexperia/74HC154PW118?qs=P62ublwmbi9%252BzQcGRVZVsg%3D%3D)
+~!Arrow Part Number (74HC154PW,118)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/74hc154pw118/nexperia?region=nac)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/74HC_HCT154.pdf)
+~!Height (1.1mm)
+~!3D_Model (74HC154PW,118)
+"74HC154PW_118"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 

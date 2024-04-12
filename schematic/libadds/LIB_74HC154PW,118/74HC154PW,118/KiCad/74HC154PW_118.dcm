@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC154PW,118
+D Encoders, Decoders, Multiplexers & Demultiplexers 4-16 DECODER/DEMUX
+K
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT154.pdf
+$ENDCMP
+#
+#End Doc Library
