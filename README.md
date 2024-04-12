@@ -6,7 +6,7 @@ Jako projekt wstępnie wybrano tester przewodów USB. Wymagania przyjęte do teg
 * Możliwość testu 2 typów przewodów: USB A -> USB C oraz USB C -> USB C
 * Dwa tryby częstotliwości pracy układu
 * Kompaktowość urządzenia
-* Niska cena\
+* Niska cena
   
 ## Schemat i projekt układu
 Wstępny zamysł projektu był następujący. Odpowiednio zaprojektowany system zegara CLK oparty o układ scalony NE555. Następnie sygnał ten przechodzi na 5 przerzutników typu JK działających w układzie licznika synchronicznego od 0 - 24, dzięki czemu możliwe było obsłużenie wszystkich 25 sygnałów pełnego złącza USB type C (a dokładniej 24 pinów sygnałowych oraz shielda). W ten sposób zaprojektowano układ licznika 5 bitowego. Sygnał z poszczególnych wyjść liczników trafia na dwa 4 bitowe dekodery połączone w odpowiedni sposób, zamiast na jeden dekoder 5 bitowy. Wynika to z faktu dostępności i ceny. Układ dwóch 4 bitowych dekoderów jest tańszy i łatwiej dostępny. Sygnał z poszczególnych wyjść dekoderów trafiał na odpowiednie mosfety typu P, a one po otrzymaniu sygnału załączeniowego (logiczne “0”) zaczynały przewodzić do odpowiedniego pinu złącza USB C. Następnie przez przewód sygnał trafiał na odpowiednie szeregowo połączone rezystory i diody, które zaczynały świecić, sygnalizująć działanie danego pinu.
