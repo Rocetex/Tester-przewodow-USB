@@ -13,7 +13,6 @@ Wstępny zamysł projektu był następujący. Odpowiednio zaprojektowany system 
 
 ![image](https://github.com/Rocetex/Tester-przewodow-USB/assets/164247771/b01f14ee-7cf3-4f50-aa64-9a80114b79fa)
 
-
 ## Instrukcja obsługi:
 Płytkę należy zasilić napięciem 5V. 
 Switch S1 odowiada za resetowanie układu.
@@ -31,6 +30,10 @@ Aby przetestować przewód USB C -> USB C:
 - Ustawić oczelowamą częstotliwość pracy układu
 - Ustawić tryb pracy na USB C
 - Wpiąć przewód z złącze USB C (oznaczone na płytce jako J1) oraz w wyjściowe złącze USB typu C (J2)
+
+## Błędy w konstrukcji płytki:
+- Kondensator C3 należy przylutować równolegle do masy oraz do zwartych padów miejsca kondensatora
+- Pomimo wykonania symulacji zauważono problem z zamykaniem się mosfetów, z tego powodu zaleca się użycie tranzystorów PNP oraz rezystorów na bramce 1k Ohm
 
 ## Prezentacja układu:
 ![image](https://github.com/Rocetex/Tester-przewodow-USB/assets/164247771/3bd79a89-00ae-4dd4-a149-51382da346e9)
