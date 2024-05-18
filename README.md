@@ -36,8 +36,10 @@ Aby przetestować przewód USB C -> USB C:
 - Pomimo wykonania symulacji zauważono problem z zamykaniem się mosfetów, z tego powodu zaleca się użycie tranzystorów PNP oraz rezystorów na bramce 1k Ohm
 
 ## Prezentacja układu:
-![image](https://github.com/Rocetex/Tester-przewodow-USB/assets/164247771/3bd79a89-00ae-4dd4-a149-51382da346e9)
-![image](https://github.com/Rocetex/Tester-przewodow-USB/assets/164247771/ad754ebf-3826-4b5f-91ed-f801fcbd2afb)
+![4](https://github.com/Rocetex/Tester-przewodow-USB/assets/164247771/bb88e057-11c5-49d6-9d7d-f044c9aa2bd7)
+![3](https://github.com/Rocetex/Tester-przewodow-USB/assets/164247771/a0c89028-9297-4b5d-b4fa-371a54ae9684)
+![2](https://github.com/Rocetex/Tester-przewodow-USB/assets/164247771/e7b1cf7b-07da-4b91-a01c-608324985595)
+![1](https://github.com/Rocetex/Tester-przewodow-USB/assets/164247771/64832027-42d3-4fe9-bb13-718b6afb56eb)
 ![image](https://github.com/Rocetex/Tester-przewodow-USB/assets/164247771/d0cae84b-b4d1-4df5-bda9-ae3af1804183)
 
 
