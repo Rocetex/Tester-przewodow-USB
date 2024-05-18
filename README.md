@@ -19,7 +19,7 @@ Switch S1 odowiada za resetowanie układu.
 Przełącznik S3 odpowiada za wybranie częstotliwości pracy układu
 Przełącznik S4 odpowiada za wybranie trybu pracy:
 1) USB typu A
-2) 2) USB typu C
+2) USB typu C
 Aby przetestować przewód USB A -> USB C:
 - Podłączyć zasilanie do płytki
 - Ustawić oczelowamą częstotliwość pracy układu
